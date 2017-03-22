@@ -11,7 +11,7 @@ namespace MyFirst
 		{
 			button1.Text = "You clicked me" + " do it!!!";
 			string str = string.empty;
-			str = "wxwang 003";
+			str = "wxwang 003"+"stupid";
 
 		}
 	}
