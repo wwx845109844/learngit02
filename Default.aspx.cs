@@ -9,8 +9,9 @@ namespace MyFirst
 	{
 		public void button1Clicked(object sender, EventArgs args)
 		{
-			button1.Text = "You clicked me" + " do it";
+			button1.Text = "You clicked me" + " do it!!!";
 			string str = string.empty;
+			str = "wxwang";
 
 		}
 	}
